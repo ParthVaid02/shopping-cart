@@ -28,10 +28,10 @@ A simple web-based Shopping Cart application that allows users to add products t
 ## Live Demo
 You can access the web app using the following link:
 
-[Live Shopping Cart](#)
+[Live Shopping Cart](https://parthvaid02.github.io/shopping-cart/)
 
 ## Screenshots
 Add screenshots of your Shopping Cart app below for a visual overview:
 
-![Shopping Cart Screenshot]()
+![Shopping Cart Screenshot](https://github.com/user-attachments/assets/f34643d4-5e75-405b-afeb-a154df4f04d6)
 
